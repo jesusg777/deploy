@@ -1,109 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\",
+  "WorkspaceRootPath": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|solutionrelative:moneybankservice.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.api\\moneybankservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.api\\moneybankservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|solutionrelative:moneybankservice.api\\moneybankservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|solutionrelative:moneybankservice.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|solutionrelative:moneybankservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC38985D-7B2C-4DC0-93C4-C0CE369FF4E5}|MoneyBankService.Domain\\MoneyBankService.Domain.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC38985D-7B2C-4DC0-93C4-C0CE369FF4E5}|MoneyBankService.Domain\\MoneyBankService.Domain.csproj|solutionrelative:moneybankservice.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC38985D-7B2C-4DC0-93C4-C0CE369FF4E5}|MoneyBankService.Domain\\MoneyBankService.Domain.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC38985D-7B2C-4DC0-93C4-C0CE369FF4E5}|MoneyBankService.Domain\\MoneyBankService.Domain.csproj|solutionrelative:moneybankservice.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\interfaces\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\interfaces\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\interfaces\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\interfaces\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.infrastructure\\moneybankservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|solutionrelative:moneybankservice.infrastructure\\moneybankservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.api\\extensions\\moduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.api\\extensions\\moduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|solutionrelative:moneybankservice.api\\extensions\\moduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.api\\moneybankservice.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|solutionrelative:moneybankservice.api\\moneybankservice.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\moneybankservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\moneybankservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.api\\middleware\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70A5A46E-7E78-4E43-813D-39AB5D548FAA}|MoneyBankService.Api\\MoneyBankService.Api.csproj|solutionrelative:moneybankservice.api\\middleware\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.infrastructure\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|solutionrelative:moneybankservice.infrastructure\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|solutionrelative:moneybankservice.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB25E49B-AF92-40BA-B450-05ADBBC77659}|MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj|solutionrelative:moneybankservice.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\validators\\transactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\validators\\transactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\validators\\transactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\validators\\accountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\validators\\accountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\validators\\accountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\univ\\sem6\\ds\\servicesdevelopment\\exams\\exam-03\\moneybankservice\\moneybankservice.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|c:\\users\\jesus\\onedrive\\documents\\otros\\deploy\\moneybankservice\\moneybankservice.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BFA5CF-44AA-41E3-BAD4-1D999C19ADC1}|MoneyBankService.Application\\MoneyBankService.Application.csproj|solutionrelative:moneybankservice.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -123,88 +71,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Services\\AccountService.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Services\\AccountService.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAswKgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T03:41:31.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Interfaces\\Repositories\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Interfaces\\Repositories\\IAccountRepository.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Interfaces\\Repositories\\IAccountRepository.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Interfaces\\Repositories\\IAccountRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T01:31:18.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Interfaces\\Services\\IAccountService.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Interfaces\\Services\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Interfaces\\Services\\IAccountService.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Interfaces\\Services\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T01:34:02.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Domain\\Entities\\Account.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Domain\\Entities\\Account.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Domain\\Entities\\Account.cs",
-              "RelativeToolTip": "MoneyBankService.Domain\\Entities\\Account.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T02:00:55.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T02:09:43.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Domain\\Entities\\Transaction.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Domain\\Entities\\Transaction.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Domain\\Entities\\Transaction.cs",
-              "RelativeToolTip": "MoneyBankService.Domain\\Entities\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T03:22:23.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MoneyBankService.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
               "RelativeDocumentMoniker": "MoneyBankService.Api\\MoneyBankService.Api.csproj",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
               "RelativeToolTip": "MoneyBankService.Api\\MoneyBankService.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -215,247 +85,145 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Controllers\\AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "MoneyBankService.Api\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "MoneyBankService.Api\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowDMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T03:23:18.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T03:23:18.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyBankService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\Program.cs",
+              "RelativeToolTip": "MoneyBankService.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:14:45.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Program.cs",
-              "RelativeToolTip": "MoneyBankService.Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T04:14:45.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "InternalServerErrorException.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\InternalServerErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\InternalServerErrorException.cs",
               "RelativeDocumentMoniker": "MoneyBankService.Application\\Exceptions\\InternalServerErrorException.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\InternalServerErrorException.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\InternalServerErrorException.cs",
               "RelativeToolTip": "MoneyBankService.Application\\Exceptions\\InternalServerErrorException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T02:09:40.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T02:09:40.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "BusinessException.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\BusinessException.cs",
               "RelativeDocumentMoniker": "MoneyBankService.Application\\Exceptions\\BusinessException.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\BusinessException.cs",
               "RelativeToolTip": "MoneyBankService.Application\\Exceptions\\BusinessException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T02:09:38.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T02:09:38.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BadRequestException.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Exceptions\\BadRequestException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ModuleExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
+              "RelativeDocumentMoniker": "MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
+              "RelativeToolTip": "MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T02:09:27.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T20:51:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:11:55.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Validators\\TransactionValidator.cs",
+              "RelativeDocumentMoniker": "MoneyBankService.Application\\Validators\\TransactionValidator.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Validators\\TransactionValidator.cs",
+              "RelativeToolTip": "MoneyBankService.Application\\Validators\\TransactionValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:58:42.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Validators\\AccountValidator.cs",
+              "RelativeDocumentMoniker": "MoneyBankService.Application\\Validators\\AccountValidator.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Validators\\AccountValidator.cs",
+              "RelativeToolTip": "MoneyBankService.Application\\Validators\\AccountValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:56:36.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MoneyBankService.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
-              "RelativeToolTip": "MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T03:38:23.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MoneyBankService.Api",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\MoneyBankService.Api.csproj",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
-              "RelativeToolTip": "MoneyBankService.Api\\MoneyBankService.Api.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T03:38:55.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MoneyBankService.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\MoneyBankService.Application.csproj",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\MoneyBankService.Application.csproj",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\MoneyBankService.Application.csproj",
-              "RelativeToolTip": "MoneyBankService.Application\\MoneyBankService.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-17T20:34:10.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ExceptionMiddlewareExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Middleware\\ExceptionMiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\Middleware\\ExceptionMiddlewareExtensions.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Middleware\\ExceptionMiddlewareExtensions.cs",
-              "RelativeToolTip": "MoneyBankService.Api\\Middleware\\ExceptionMiddlewareExtensions.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T03:35:21.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ModuleExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
-              "RelativeToolTip": "MoneyBankService.Api\\Extensions\\ModuleExtensions.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:51:42.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\Common\\Repository.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Infrastructure\\Common\\Repository.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\Common\\Repository.cs",
-              "RelativeToolTip": "MoneyBankService.Infrastructure\\Common\\Repository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:12:56.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Infrastructure\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "MoneyBankService.Infrastructure\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T03:28:46.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "MoneyBankService.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T02:11:55.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "TransactionValidator.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Validators\\TransactionValidator.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Validators\\TransactionValidator.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Validators\\TransactionValidator.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Validators\\TransactionValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T01:58:42.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AccountValidator.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Validators\\AccountValidator.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Validators\\AccountValidator.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Validators\\AccountValidator.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Validators\\AccountValidator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T01:56:36.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Mappers\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Mappers\\MappingProfile.cs",
               "RelativeDocumentMoniker": "MoneyBankService.Application\\Mappers\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Mappers\\MappingProfile.cs",
               "RelativeToolTip": "MoneyBankService.Application\\Mappers\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:35:01.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T20:35:01.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 9,
               "Title": "TransactionDto.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Dto\\TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Dto\\TransactionDto.cs",
               "RelativeDocumentMoniker": "MoneyBankService.Application\\Dto\\TransactionDto.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Dto\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Dto\\TransactionDto.cs",
               "RelativeToolTip": "MoneyBankService.Application\\Dto\\TransactionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:33:39.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T20:33:39.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 10,
               "Title": "AccountDto.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Dto\\AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Dto\\AccountDto.cs",
               "RelativeDocumentMoniker": "MoneyBankService.Application\\Dto\\AccountDto.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Dto\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Dto\\AccountDto.cs",
               "RelativeToolTip": "MoneyBankService.Application\\Dto\\AccountDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:33:12.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T20:33:12.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Common\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Common\\IRepository.cs",
               "RelativeDocumentMoniker": "MoneyBankService.Application\\Common\\IRepository.cs",
-              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Univ\\Sem6\\DS\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Application\\Common\\IRepository.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documents\\Otros\\deploy\\MoneyBankService\\MoneyBankService.Application\\Common\\IRepository.cs",
               "RelativeToolTip": "MoneyBankService.Application\\Common\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:06:07.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T20:06:07.156Z"
             }
           ]
         }
